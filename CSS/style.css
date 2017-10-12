@@ -1,0 +1,15 @@
+body {
+    background-color: #ff0edf;
+    color: #ffffff;
+
+}
+.link{
+    color:hsl(249, 97%, 46%);
+    font-size: 200%;
+    text-decoration: none;
+
+
+}
+#funsternation{
+    font-weight: 900;
+}
